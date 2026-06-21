@@ -103,7 +103,7 @@ export default function Login() {
         </div>
 
         <p className="text-center text-xs text-gray-400 mt-8">
-          &copy; 2026 Etzyarchive Official. All rights reserved.
+          &copy; 2026 EtzyArchive Official. All rights reserved.
         </p>
       </div>
     </div>
